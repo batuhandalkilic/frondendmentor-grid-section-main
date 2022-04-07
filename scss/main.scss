@@ -41,6 +41,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: start;
+    border-radius: 15px;
     
     h1{
         font-size: 1rem;
@@ -167,7 +168,7 @@ body{
                 width: 55px;
                 height: 55px;
                 background-color: transparent;
-                border: 3px solid red ;
+                border: 3px solid rgb(118, 43, 189) ;
                 border-radius: 50%;
             }
             
